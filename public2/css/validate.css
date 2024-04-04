@@ -1,0 +1,13 @@
+label.error{
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    background-color: hsl(2, 64%, 58%);
+}

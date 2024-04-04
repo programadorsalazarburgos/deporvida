@@ -1,0 +1,31 @@
+input.switchCheckbox {
+  display: none !important;
+}
+
+.toggleSwitchWrap .toggleBase {
+  width: 4em;
+  height: 2em;
+  background: #ccc;
+  -webkit-transition: background 0.1s;
+  transition: background 0.1s;
+}
+.toggleSwitchWrap .toggleSwitch {
+  width: 2em;
+  height: 2em;
+  background: white;
+  border: 0.25em solid #ccc;
+  margin-left: 0;
+  -webkit-transition: margin-left 0.25s cubic-bezier(0.77, 0, 0.175, 1);
+  transition: margin-left 0.25s cubic-bezier(0.77, 0, 0.175, 1);
+}
+.toggleSwitchWrap.switchOn .toggleBase {
+  background: #8BC34A;
+}
+.toggleSwitchWrap.switchOn .toggleSwitch {
+  margin-left: 2em;
+  border-color: #8BC34A;
+}
+
+.form-inline .toggleSwitchWrap {
+  display: inline-block;
+}

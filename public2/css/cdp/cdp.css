@@ -1,0 +1,21 @@
+@page { margin: 5.9cm 3cm 3cm 3cm; }
+         .table_border td{
+            font-size: 10px;
+             vertical-align: middle;
+             text-align: center;
+         }
+
+         .table_border {
+            width: 100%;
+         }
+         .table_border {
+             border-collapse: collapse;
+         }
+
+         .table_border,  .table_border th, .table_border td {
+             border: 1px solid black;
+         }
+         body{
+            text-transform: uppercase;
+            font-family: arial;
+         }

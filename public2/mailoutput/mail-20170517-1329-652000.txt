@@ -1,0 +1,25 @@
+To: johansalazarburgos27@gmail.com
+Subject: Correo de contacto
+Message-ID: <2ebd13737a74f4e8217b16608c2aec31@localhost>
+Date: Wed, 17 May 2017 13:29:56 +0000
+From: johan salazar <johansasssslazarburgos27@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D"utf-8">
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <title></title>
+    <link rel=3D"stylesheet" href=3D"">
+</head>
+<body>
+    <p><strong>Nombre</strong>kjklj</p>
+    <p><strong>Correo</strong>kljkll@mail.com</p>
+    <p><strong>Telefono</strong>987897</p>
+    <p><strong>Ciudad</strong>lkjlkj</p>
+    <p><strong>Mensaje</strong>kjlkjl</p>
+</body>
+</html>

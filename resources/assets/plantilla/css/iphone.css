@@ -1,0 +1,1110 @@
+/* ----------- iPhone 4 and 4S ----------- */
+
+
+#institucionescorregimiento{
+
+  position: relative;
+  top: 23px;
+  right: 21px;
+}
+
+
+
+
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+  .dropdown-toggle {
+    position: relative;
+    left: 174px;
+
+
+
+    
+}
+
+.custom-select {
+    position: relative;
+    top: 39px;
+    left: -225px;
+    width: 286px;
+}
+
+
+#residencia{
+
+    position: relative;
+    left: 30px;
+
+}
+
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+}
+
+/* Landscape Pc */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+
+
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+
+}
+
+/* ----------- iPhone 5, 5S, 5C and 5SE CELULAR 351 X 248----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+
+.dropdown-menu {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+#resid {
+
+    width: 286px;
+}
+#resiv {
+
+    width: 242px;
+    left: -209px;
+}
+
+
+#limpiar{
+    position: relative;
+    left: 208px;
+    top: -36px;
+    height: 30px;
+}
+
+#resib{
+
+    position: relative;
+    left: -194px;   
+}
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu {
+
+  position: relative;
+    left: 174px;
+  
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+     .dropdown-toggle{
+    position: relative;
+    top: -45px;
+    left: 175px;
+}
+
+.dropdown-menu  {
+
+  position: relative;
+  left: 174px;
+  top: -45px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 75px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+}
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+
+}
+
+
+
+/* ----------- Galaxy S3 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: portrait) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: landscape) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+}
+
+/* ----------- Galaxy S4, S5 and Note 3 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+}
+
+/* ----------- Galaxy S6 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+
+
+.twinList .btn {
+    margin: .15em;
+    width: 55px;
+    position: relative;
+    left: -24px;
+}
+
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+
+/* Portrait */
+@media screen 
+  and (device-width: 375px) 
+  and (device-height: 667px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: portrait) {
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+  }
+
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : landscape) { 
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+
+}
+
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : portrait) { 
+
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+ }
+
+
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) { 
+
+#institucionescorregimiento{
+
+position: relative;
+top: -5px;
+right: 0px;
+
+}
+
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: portrait) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu  {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: landscape) {
+
+
+     .dropdown-toggle{
+    position: relative;
+    left: 174px;
+}
+.dropdown-menu {
+
+  position: relative;
+    left: 174px;
+  
+}
+
+#card-stats {
+    padding-top: 12px;
+    padding-left: 56px;
+}
+.a-card {
+    height: 153px;
+    width: 219px;
+    border: 0px solid black;
+    padding: 9px 48px 17px 4px;
+    position: relative;
+    left: 65px;
+    margin: 5px;
+}
+}

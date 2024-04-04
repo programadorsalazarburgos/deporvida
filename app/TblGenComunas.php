@@ -1,0 +1,14 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class TblGenComunas extends Model
+{
+
+    protected $table      = 'comunas';
+    protected $primarykey = 'id';
+    protected $fillable   = ['codigo_comuna', 'nombre_comuna', 'zona_id'];
+
+}

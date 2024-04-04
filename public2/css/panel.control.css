@@ -1,0 +1,10 @@
+	#informe{
+		background-color: #E6E6E6;
+		display: flow-root;
+	}
+	.cont-div{
+		padding: 10px 10px 10px 10px;
+	}
+	#loading img{
+		width: 200px;
+	}

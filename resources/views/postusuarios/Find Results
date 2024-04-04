@@ -1,0 +1,10 @@
+Searching 23650 files for "These credentials do not match our records."
+
+/Users/user/Documents/johan/comunidad/resources/lang/en/auth.php:
+   14      */
+   15  
+   16:     'failed' => 'These credentials do not match our recordsffff.',
+   17      'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+   18  
+
+1 match in 1 file

@@ -1,0 +1,9 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.env
+public/hojasvidas/*
+public/cdp/*
+public/documentos/*
+public/elfinder/php/.tmp*
+*.example
+*.lock
+.env1.txt

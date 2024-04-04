@@ -1,0 +1,32 @@
+/*================================================================================
+	Item Name: Materialize - Material Design Admin Template
+	Version: 4.0
+	Author: PIXINVENT
+	Author URL: https://themeforest.net/user/pixinvent/portfolio
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+#header #logo-cali{
+    margin-top: -3px;
+    background: url('../../images/logo/logo-cali.png') no-repeat !important;
+    height: 50px;
+    width : 80px;
+}
+
+#header #logo-alcaldia{
+    margin-left: 85px;
+    position: absolute;
+    background: url('../../images/logo/logo-cali-progresa.png') no-repeat !important;
+    height: 50px;
+    width : 80px;
+}
+#header #centrar-titulo{
+    margin-left: 40%;
+    top: -55px;
+    position: relative;
+    font-size: 0.7em;
+}
